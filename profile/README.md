@@ -72,19 +72,19 @@ Durante el curso utilizaremos herramientas habituales en entornos reales de desa
 
 ### 💻 Entorno de trabajo
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?logo=github\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode\&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+[![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?logo=github&logoColor=white)](https://desktop.github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 GitHub será nuestro punto de encuentro para el código y las prácticas. Utilizaremos **GitHub Desktop** para trabajar con Git desde nuestros equipos y **Visual Studio Code** como editor principal.
 
 ### 🌐 Desarrollo web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 Partiremos de las tecnologías fundamentales de la Web —**HTML, CSS y JavaScript**— e iremos incorporando otras herramientas como **Node.js** y **Bootstrap**.
 
