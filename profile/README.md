@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="../img/SMR2_GHportada.png"
+       alt="SMR2 2026-2027 · Aplicaciones Web · Ampliación de Aplicaciones Web · Seguridad Informática"
+       width="100%">
+</p>
+
+
 # 🖥️ SMR2 // 2026–2027
 
 <div align="center">
